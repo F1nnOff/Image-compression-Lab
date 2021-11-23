@@ -1,1 +1,1 @@
-# HSE-lab-SVD
+# Image-compression-Lab
